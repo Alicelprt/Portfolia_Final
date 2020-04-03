@@ -1,0 +1,66 @@
+body {
+  font-family: Helvetica;
+  color: black
+}
+
+.Titre1
+ { font-size: 7em;
+  margin-bottom: 1.25em;
+  text-align:center;
+  margin-top: 90px;
+  margin-bottom: 90px;
+
+}
+
+h2 {
+font-size: 2em;
+margin-bottom: 1em;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+#photo
+h1{
+margin-top: 100px;
+text-align:center;
+color:  #d9b3ff;
+font-size:200px;
+font-style: italic
+
+}
+
+#photo
+p {
+font-family: monospace;
+  text-align:center;
+  margin-bottom: auto;
+}
+
+.photo-feature
+h2{
+
+}
+
+.Project-feature
+p{
+  font-family: Helvetica;
+  color: pink;
+  text-align: center;
+}
+.Project-feature
+h2 {
+font-family: monospace;
+margin-bottom: 20px;
+margin-top: 20px;
+text-align: center;
+}

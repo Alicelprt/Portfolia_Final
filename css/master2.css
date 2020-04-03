@@ -1,0 +1,26 @@
+
+body {
+  background: #000000;
+  }.photointer_ {
+  border: 3px solid #000;
+  margin: 3em;
+  padding: 3em;
+  margin-bottom: 2em;
+  flex-basis: 320px;
+  flex-grow: 1;
+  background-color: ;
+}
+
+.interphoto {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.photoo {
+  width: 50px;
+	height: 50px;
+}
